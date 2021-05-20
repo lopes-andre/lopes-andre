@@ -15,7 +15,7 @@ Installation, operation and maintenance of subsea sensors and devices, such as: 
 
 ------------------
 
-- 🌱 I’m currently learning Python, JavaScript, C/C++, Computer Networking, Operational Systems.
+- 🌱 I’m currently learning Python, JavaScript, C/C++, Computer Networking, and Operating Systems.
 - 📫 Please feel free to reach me at lopes.andre@outlook.com or [LinkedIn/andrefelipelopes](https://www.linkedin.com/in/andrefelipelopes/) .
 
 <!---
