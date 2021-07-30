@@ -7,7 +7,7 @@
 
 ### ![Google Developer Student Clubs logo](/gdsc_icon.png "Google Developer Student Clubs") **Google DSC Lead | Full-Stack Developer** 👨🏻‍💻
 
-Google Developer Student Club Lead and Founder at Uninter's Chapter. Google DSC Leads are leaders who believe that technology can do extraordinary things for the world.
+Google Developer Student Club Lead at Uninter's Chapter and its Founder. Google DSC Leads are leaders who believe that technology can do extraordinary things for the world.
 
 As a **Google DSC Lead**, my main roles are:
 
