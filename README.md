@@ -9,7 +9,7 @@
 
 Google Developer Student Club Lead and Founder at Uninter's Chapter. Google DSC Leads are leaders who believe that technology can do extraordinary things for the world.
 
-As a Google DSC Lead, my main roles are:
+As a **Google DSC Lead**, my main roles are:
 
 - Work with my university to start a student club. Select a core team and faculty advisor to support.
 
@@ -20,6 +20,10 @@ As a Google DSC Lead, my main roles are:
 - Access to community management training and technical knowledge to help me be a stronger leader. Invitations to select Google events.
 
 - Access to a global network of student leaders, professional community organizers, industry experts, and Googlers to gain mentorship and share knowledge.
+
+As **Full-Stack Developer** I am in charge of:
+
+- Develop a web application (Django, Angular, PostgreSQL) to help small communities of agricultors and families to connect and support their non-profit CSA (*Comunidade que Suporta a Agricultura*, or Community that Supports Agriculture) organizations.
 
 -------------------------------------------------------------------------------------------------------
 
