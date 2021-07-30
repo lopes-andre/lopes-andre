@@ -5,7 +5,25 @@
 
 -------------------------------------------------------------------------------------------------------
 
-- :computer: **ROV Submarine Supervisor** :joystick:
+### ![Google Developer Student Clubs logo](/gdsc_icon.png "Google Developer Student Clubs") **Google DSC Lead | Full-Stack Developer** 👨🏻‍💻
+
+Google Developer Student Club Lead and Founder at Uninter's Chapter. Google DSC Leads are leaders who believe that technology can do extraordinary things for the world.
+
+As a Google DSC Lead, my main roles are:
+
+- Work with my university to start a student club. Select a core team and faculty advisor to support.
+
+- Host workshops to grow student knowledge on developer products and platforms through hands-on workshops and events.
+
+- Identify local partners to work with and lead project building activities.
+
+- Access to community management training and technical knowledge to help me be a stronger leader. Invitations to select Google events.
+
+- Access to a global network of student leaders, professional community organizers, industry experts, and Googlers to gain mentorship and share knowledge.
+
+-------------------------------------------------------------------------------------------------------
+
+### :computer: **ROV Submarine Supervisor** :joystick:
 
 ROVs (*[underwater Remotely Operated Vehicles](https://youtu.be/CoOwT0X5dpo)*) are basically submarine robots operated from a cockpit on an special vessel or oil rig, all programmed in C++, [ROS 2](https://docs.ros.org/en/foxy) and [Qt](https://doc.qt.io/). I am not a developer of the ROV's software but an Operations and Maintenance Supervisor, mainly performing inspections and interventions of subsea oilfield equipment.
 
@@ -13,7 +31,7 @@ I have mobilized, interfaced and commissioned multiple ROV systems, equipment fr
 
 Installation, operation and maintenance of subsea sensors and devices, such as: UHD cameras, Digiquartz® depth sensor, acoustic positioning systems, sonars, microcontrollers and microprocessors, fiber optics modems, and multiplexers. 
 
-------------------
+-------------------------------------------------------------------------------------------------------
 
 - 🌱 I’m currently learning Python, JavaScript, C/C++, Computer Networking, and Operating Systems.
 - 📫 Please feel free to reach me at lopes.andre@outlook.com or [LinkedIn/andrefelipelopes](https://www.linkedin.com/in/andrefelipelopes/) .
