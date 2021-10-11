@@ -5,7 +5,7 @@
 
 -------------------------------------------------------------------------------------------------------
 
-### ![Google Developer Student Clubs logo](/gdsc_icon.png "Google Developer Student Clubs") **Google DSC Lead | Full-Stack Developer** 👨🏻‍💻
+### ![Google Developer Student Clubs logo](/gdsc_icon.png "Google Developer Student Clubs") **Google DSC Lead | Backend Developer** 👨🏻‍💻
 
 Google Developer Student Club Lead at Uninter's Chapter and its Founder. Google DSC Leads are leaders who believe that technology can do extraordinary things for the world.
 
@@ -21,7 +21,7 @@ As a **Google DSC Lead**, my main roles are:
 
 - Access to a global network of student leaders, professional community organizers, industry experts, and Googlers to gain mentorship and share knowledge.
 
-As **Full-Stack Developer** I am in charge of:
+As **Backend Developer** I am in charge of:
 
 - Develop a web application (Django, Angular, PostgreSQL) to help small communities of agricultors and families to connect and support their non-profit CSA (*Comunidade que Suporta a Agricultura*, or Community that Supports Agriculture) organizations.
 
