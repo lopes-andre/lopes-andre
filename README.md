@@ -1,7 +1,8 @@
 - 👋 Hi, I’m André Lopes from Brazil
-- :mortar_board: BSc. Software Engineering Student *@ Uninter*
+- 🎓 BSc. Software Engineering Student *@ Uninter*
 - 🎓 Spec. Quality and Production Management *@ University of Toronto*
 - 🎓 Tech. Electronics Engineering *@ ETEP Faculdades*
+- 🌐 [https://andrelopes.dev/](https://andrelopes.dev/)
 
 -------------------------------------------------------------------------------------------------------
 
