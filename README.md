@@ -28,7 +28,7 @@ As **Backend Developer** I am in charge of:
 
 -------------------------------------------------------------------------------------------------------
 
-### :computer: **ROV Submarine Supervisor** :joystick:
+### :computer: **Submarine ROV Supervisor** :joystick:
 
 ROVs (*[underwater Remotely Operated Vehicles](https://youtu.be/CoOwT0X5dpo)*) are basically submarine robots operated from a cockpit on an special vessel or oil rig, all programmed in C++, [ROS 2](https://docs.ros.org/en/foxy) and [Qt](https://doc.qt.io/). I am not a developer of the ROV's software but an Operations and Maintenance Supervisor, mainly performing inspections and interventions of subsea oilfield equipment.
 
